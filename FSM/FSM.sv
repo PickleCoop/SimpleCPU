@@ -1,6 +1,11 @@
 /**
 * Evan Cooper & Steven Tieu
 * Digital Systems Design SP23
+*
+* This finite state machine drives the
+* controller of the CPU, determining the 
+* behavior based on the bits in a given
+* 16 bit instruction.
 */
 
 module FSM(IR, 
