@@ -1,3 +1,8 @@
+/**
+* Evan Cooper & Steven Tieu
+* Digital Systems Design SP23
+*/
+
 module FSM(IR, 
 				PC_clr, 
 				IR_Id, 
