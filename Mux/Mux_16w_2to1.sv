@@ -1,3 +1,8 @@
+/**
+* Evan Cooper & Steven Tieu
+* Digital Systems Design SP23
+*/
+
 module Mux_16w_2to1(Sel, A, B, M);
  	input Sel; // mux select line in
  	input [15:0] A, B; // mux inputs
