@@ -2,10 +2,8 @@
 * Evan Cooper & Steven Tieu
 * Digital Systems Design SP23
 *
-* This is the top level module of the
-* simple processor. It connects all the modules
-* together and will use files generated in Quartus
-* for the ROM and RAM.
+* This module connects the controller and datapath
+* modules.
 */
 
 module Processor(Clk, Reset, IR_Out, PC_Out, State, NextState, ALU_A, ALU_B, ALU_Out);
