@@ -1,3 +1,8 @@
+/**
+* Evan Cooper & Steven Tieu
+* Digital Systems Design SP23
+*/
+
 module Controller(Clk, Reset, ALU_s0, D_Addr, D_Wr, IR_Out, nextState, outState, 	
 		   PC_Out, RF_Ra_Addr, RF_Rb_Addr, RF_W_Addr, RF_W_en, RF_s);
 
