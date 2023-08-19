@@ -1,6 +1,10 @@
 /**
 * Evan Cooper & Steven Tieu
 * Digital Systems Design SP23
+*
+* This MYX is designed to switch between two
+* 16 bit-wide inputs to an output based on a 
+* given selection bit.
 */
 
 module Mux_16w_2to1(Sel, A, B, M);
