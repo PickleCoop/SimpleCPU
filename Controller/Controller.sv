@@ -1,6 +1,9 @@
 /**
 * Evan Cooper & Steven Tieu
 * Digital Systems Design SP23
+*
+* The controller adds the functionality of
+* using the PC.
 */
 
 module Controller(Clk, Reset, ALU_s0, D_Addr, D_Wr, IR_Out, nextState, outState, 	
